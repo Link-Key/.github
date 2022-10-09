@@ -9,4 +9,4 @@ We accept investments from global investors and our investment matchmakers are:
 
 We use DAO model to manage investment funds, **the only receiving address for investment funds**: 
 
-**0x70A0471e389490C5A79bcf9a3cDfeB9C8DDe1de9** # [linkkeyteam DAO](https://polygonscan.com/address/0x70a0471e389490c5a79bcf9a3cdfeb9c8dde1de9)
+**0x70A0471e389490C5A79bcf9a3cDfeB9C8DDe1de9** --> [linkkeyteam DAO](https://polygonscan.com/address/0x70a0471e389490c5a79bcf9a3cdfeb9c8dde1de9)
